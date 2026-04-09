@@ -1,0 +1,41 @@
+# 🔥 Node modules
+node_modules/
+
+# 🔥 Environment variables (VERY IMPORTANT)
+.env
+
+# 🔥 Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 🔥 Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# 🔥 OS files
+.DS_Store
+Thumbs.db
+
+# 🔥 Editor folders
+.vscode/
+.idea/
+
+# 🔥 Build / dist
+dist/
+build/
+
+# 🔥 Coverage (testing)
+coverage/
+
+# 🔥 Optional: lock files (keep ONLY one if needed)
+package-lock.json
+yarn.lock
+
+# 🔥 Temporary files
+*.tmp
+*.temp
